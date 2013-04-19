@@ -4,5 +4,10 @@
     <string name="app_name">Uptime Guard</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="lblInformacion">Data Network Signal Information</string>
+    <string name="lblCarrier">Carrier Info</string>
+    <string name="lblShare">Share</string>
+    <string name="lblMap">Map</string>
+    <string name="lblGeolocation">Location Information</string>
 
 </resources>
